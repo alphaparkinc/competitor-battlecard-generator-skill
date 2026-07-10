@@ -1,5 +1,5 @@
 {
-  "name": "competitor-battlecard-generator-skill",
+  "name": "genpark-competitor-battlecard-generator-skill",
   "version": "1.0.0",
   "description": "GenPark AI Agent Skill - Generate sales battle cards by comparing competitor pricing, features, and ads to map sales counter-objections.",
   "author": "genpark",
